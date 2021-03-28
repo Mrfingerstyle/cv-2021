@@ -67,6 +67,9 @@ strong {
   top: 0;
   right: 0;
 }
+.profile a {
+  text-decoration: none;
+}
 /* 项目经历 */
 .projects {
 }
@@ -232,4 +235,4 @@ strong {
 }
 
 
-/*# sourceMappingURL=style.0015eb87.css.map */
+/*# sourceMappingURL=style.46ae2119.css.map */

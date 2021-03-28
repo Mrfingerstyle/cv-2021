@@ -67,6 +67,9 @@ strong {
   top: 0;
   right: 0;
 }
+.profile a {
+  text-decoration: none;
+}
 /* 项目经历 */
 .projects {
 }
